@@ -8,7 +8,13 @@
 				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/UI/WB_Healthbar.uasset",
 				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
-				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/UI/WB_Score.uasset"
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/UI/WB_Score.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Meshes/Material__30.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Meshes/Heart.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Materials/MI_Hole.uasset"
 			]
 		}
 	]
