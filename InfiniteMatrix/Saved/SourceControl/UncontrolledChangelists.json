@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/UI/WB_Healthbar.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+			]
+		}
+	]
+}
