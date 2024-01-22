@@ -7,7 +7,8 @@
 			"files": [
 				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/UI/WB_Healthbar.uasset",
-				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/sulee/Desktop/gamdev/InfiniteMatrix/Content/InfiniteMatrix/UI/WB_Score.uasset"
 			]
 		}
 	]
