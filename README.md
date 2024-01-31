@@ -3,7 +3,7 @@ To play a game, follow these steps!
 
 1. Download this repo
 2. Install and open UnrealEditor on your computer
-3. In UnrealEditor, browse for local files and open .uproject file of desired game. 
+3. In UnrealEditor, browse for local files -> open downloaded repo -> go to folder of desired game (ex. InfiniteMatrix) -> open .uproject file. 
 
 
 #### Completed Games:
